@@ -4,4 +4,4 @@ jupyter nbextension enable --py widgetsnbextension
 jupyter nbextension enable python-markdown/main
 
 jupyter trust InSb.ipynb
-jupyter trust "n-type GaAs.ipynb"
+jupyter trust "p-type GaAs.ipynb"
